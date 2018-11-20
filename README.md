@@ -10,7 +10,7 @@ import Demo from "./vuews/Demo"
   component: Demo
 }
 ```
-* 跟组件中
+* 根组件中
 ```html
 <router-link to="/demo/这是一个路由参数">The page of Demo</router-link>
 <router-view />
